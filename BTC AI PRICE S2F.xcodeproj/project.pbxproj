@@ -1,0 +1,563 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		3245B8CB2D0729A2007ECBFB /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3245B8B22D0729A1007ECBFB /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3245B8B92D0729A1007ECBFB;
+			remoteInfo = "BTC AI PRICE S2F";
+		};
+		3245B8D52D0729A2007ECBFB /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3245B8B22D0729A1007ECBFB /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3245B8B92D0729A1007ECBFB;
+			remoteInfo = "BTC AI PRICE S2F";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		3245B8BA2D0729A1007ECBFB /* BTC AI PRICE S2F.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "BTC AI PRICE S2F.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3245B8CA2D0729A2007ECBFB /* BTC AI PRICE S2FTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "BTC AI PRICE S2FTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3245B8D42D0729A2007ECBFB /* BTC AI PRICE S2FUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "BTC AI PRICE S2FUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		3245B8BC2D0729A1007ECBFB /* BTC AI PRICE S2F */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "BTC AI PRICE S2F";
+			sourceTree = "<group>";
+		};
+		3245B8CD2D0729A2007ECBFB /* BTC AI PRICE S2FTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "BTC AI PRICE S2FTests";
+			sourceTree = "<group>";
+		};
+		3245B8D72D0729A2007ECBFB /* BTC AI PRICE S2FUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "BTC AI PRICE S2FUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3245B8B72D0729A1007ECBFB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3245B8C72D0729A2007ECBFB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3245B8D12D0729A2007ECBFB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3245B8B12D0729A1007ECBFB = {
+			isa = PBXGroup;
+			children = (
+				3245B8BC2D0729A1007ECBFB /* BTC AI PRICE S2F */,
+				3245B8CD2D0729A2007ECBFB /* BTC AI PRICE S2FTests */,
+				3245B8D72D0729A2007ECBFB /* BTC AI PRICE S2FUITests */,
+				3245B8BB2D0729A1007ECBFB /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		3245B8BB2D0729A1007ECBFB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3245B8BA2D0729A1007ECBFB /* BTC AI PRICE S2F.app */,
+				3245B8CA2D0729A2007ECBFB /* BTC AI PRICE S2FTests.xctest */,
+				3245B8D42D0729A2007ECBFB /* BTC AI PRICE S2FUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3245B8B92D0729A1007ECBFB /* BTC AI PRICE S2F */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3245B8DE2D0729A2007ECBFB /* Build configuration list for PBXNativeTarget "BTC AI PRICE S2F" */;
+			buildPhases = (
+				3245B8B62D0729A1007ECBFB /* Sources */,
+				3245B8B72D0729A1007ECBFB /* Frameworks */,
+				3245B8B82D0729A1007ECBFB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				3245B8BC2D0729A1007ECBFB /* BTC AI PRICE S2F */,
+			);
+			name = "BTC AI PRICE S2F";
+			packageProductDependencies = (
+			);
+			productName = "BTC AI PRICE S2F";
+			productReference = 3245B8BA2D0729A1007ECBFB /* BTC AI PRICE S2F.app */;
+			productType = "com.apple.product-type.application";
+		};
+		3245B8C92D0729A2007ECBFB /* BTC AI PRICE S2FTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3245B8E12D0729A2007ECBFB /* Build configuration list for PBXNativeTarget "BTC AI PRICE S2FTests" */;
+			buildPhases = (
+				3245B8C62D0729A2007ECBFB /* Sources */,
+				3245B8C72D0729A2007ECBFB /* Frameworks */,
+				3245B8C82D0729A2007ECBFB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3245B8CC2D0729A2007ECBFB /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				3245B8CD2D0729A2007ECBFB /* BTC AI PRICE S2FTests */,
+			);
+			name = "BTC AI PRICE S2FTests";
+			packageProductDependencies = (
+			);
+			productName = "BTC AI PRICE S2FTests";
+			productReference = 3245B8CA2D0729A2007ECBFB /* BTC AI PRICE S2FTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		3245B8D32D0729A2007ECBFB /* BTC AI PRICE S2FUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3245B8E42D0729A2007ECBFB /* Build configuration list for PBXNativeTarget "BTC AI PRICE S2FUITests" */;
+			buildPhases = (
+				3245B8D02D0729A2007ECBFB /* Sources */,
+				3245B8D12D0729A2007ECBFB /* Frameworks */,
+				3245B8D22D0729A2007ECBFB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3245B8D62D0729A2007ECBFB /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				3245B8D72D0729A2007ECBFB /* BTC AI PRICE S2FUITests */,
+			);
+			name = "BTC AI PRICE S2FUITests";
+			packageProductDependencies = (
+			);
+			productName = "BTC AI PRICE S2FUITests";
+			productReference = 3245B8D42D0729A2007ECBFB /* BTC AI PRICE S2FUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3245B8B22D0729A1007ECBFB /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1610;
+				LastUpgradeCheck = 1610;
+				TargetAttributes = {
+					3245B8B92D0729A1007ECBFB = {
+						CreatedOnToolsVersion = 16.1;
+					};
+					3245B8C92D0729A2007ECBFB = {
+						CreatedOnToolsVersion = 16.1;
+						TestTargetID = 3245B8B92D0729A1007ECBFB;
+					};
+					3245B8D32D0729A2007ECBFB = {
+						CreatedOnToolsVersion = 16.1;
+						TestTargetID = 3245B8B92D0729A1007ECBFB;
+					};
+				};
+			};
+			buildConfigurationList = 3245B8B52D0729A1007ECBFB /* Build configuration list for PBXProject "BTC AI PRICE S2F" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 3245B8B12D0729A1007ECBFB;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 3245B8BB2D0729A1007ECBFB /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3245B8B92D0729A1007ECBFB /* BTC AI PRICE S2F */,
+				3245B8C92D0729A2007ECBFB /* BTC AI PRICE S2FTests */,
+				3245B8D32D0729A2007ECBFB /* BTC AI PRICE S2FUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		3245B8B82D0729A1007ECBFB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3245B8C82D0729A2007ECBFB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3245B8D22D0729A2007ECBFB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3245B8B62D0729A1007ECBFB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3245B8C62D0729A2007ECBFB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3245B8D02D0729A2007ECBFB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		3245B8CC2D0729A2007ECBFB /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3245B8B92D0729A1007ECBFB /* BTC AI PRICE S2F */;
+			targetProxy = 3245B8CB2D0729A2007ECBFB /* PBXContainerItemProxy */;
+		};
+		3245B8D62D0729A2007ECBFB /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3245B8B92D0729A1007ECBFB /* BTC AI PRICE S2F */;
+			targetProxy = 3245B8D52D0729A2007ECBFB /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		3245B8DC2D0729A2007ECBFB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		3245B8DD2D0729A2007ECBFB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		3245B8DF2D0729A2007ECBFB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"BTC AI PRICE S2F/Preview Content\"";
+				DEVELOPMENT_TEAM = A7WFGL4W3V;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.wayne.BTC-AI-PRICE-S2F";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		3245B8E02D0729A2007ECBFB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"BTC AI PRICE S2F/Preview Content\"";
+				DEVELOPMENT_TEAM = A7WFGL4W3V;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.wayne.BTC-AI-PRICE-S2F";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		3245B8E22D0729A2007ECBFB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = A7WFGL4W3V;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.wayne.BTC-AI-PRICE-S2FTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/BTC AI PRICE S2F.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/BTC AI PRICE S2F";
+			};
+			name = Debug;
+		};
+		3245B8E32D0729A2007ECBFB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = A7WFGL4W3V;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.wayne.BTC-AI-PRICE-S2FTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/BTC AI PRICE S2F.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/BTC AI PRICE S2F";
+			};
+			name = Release;
+		};
+		3245B8E52D0729A2007ECBFB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = A7WFGL4W3V;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.wayne.BTC-AI-PRICE-S2FUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "BTC AI PRICE S2F";
+			};
+			name = Debug;
+		};
+		3245B8E62D0729A2007ECBFB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = A7WFGL4W3V;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.wayne.BTC-AI-PRICE-S2FUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "BTC AI PRICE S2F";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3245B8B52D0729A1007ECBFB /* Build configuration list for PBXProject "BTC AI PRICE S2F" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3245B8DC2D0729A2007ECBFB /* Debug */,
+				3245B8DD2D0729A2007ECBFB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3245B8DE2D0729A2007ECBFB /* Build configuration list for PBXNativeTarget "BTC AI PRICE S2F" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3245B8DF2D0729A2007ECBFB /* Debug */,
+				3245B8E02D0729A2007ECBFB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3245B8E12D0729A2007ECBFB /* Build configuration list for PBXNativeTarget "BTC AI PRICE S2FTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3245B8E22D0729A2007ECBFB /* Debug */,
+				3245B8E32D0729A2007ECBFB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3245B8E42D0729A2007ECBFB /* Build configuration list for PBXNativeTarget "BTC AI PRICE S2FUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3245B8E52D0729A2007ECBFB /* Debug */,
+				3245B8E62D0729A2007ECBFB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3245B8B22D0729A1007ECBFB /* Project object */;
+}
